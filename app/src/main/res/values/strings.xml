@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFA024_audioguide</string>
+    <string name="title_activity_ou_suis_je">Map</string>
+    <string name="title_activity_t_liste">T_liste</string>
+    <string name="title_activity_tourist">Map</string>
+
+    <string name="title_activity_infos">Infos</string>
+    <string name="dummy_button">Fermer</string>
+    <string name="dummy_content">Bienvenu\nà Paris</string>
+</resources>
